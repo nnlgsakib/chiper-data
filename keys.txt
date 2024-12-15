@@ -1,0 +1,27 @@
+
+
+[SECRETS INIT]
+Public key (address) = 0x9cDBecacD5167F689bba6027Af5A2a93AdFbb74a
+Private key          = 0xec2df3f1fcaba64400ca0b1573d48a75a3fc967d42ba7e778072d1732f99f664
+Node ID              = 16Uiu2HAmLU4qByxrr2yBiZwTZMVXBoqEa5FWmGRGnE14KFRyUtUZ
+
+
+
+[SECRETS INIT]
+Public key (address) = 0x3Cb002FA068b153150538b02C967685a0114ef0e
+Private key          = 0x67e628bc46fa31618707fc0d93857cde4a4ee40a57e7732b0685d636f7b68f29
+Node ID              = 16Uiu2HAmGT5isn9QfKxUvVnqnM23UYCxKfH14GZke73rnZdkiLXX
+
+
+
+[SECRETS INIT]
+Public key (address) = 0xc6b094cc796A0Ab38fe0e9121d743341022F7Be4
+Private key          = 0xfab5b1f62f9eb8800c82c8fb6eaf5dd205773d26a4d2fb51806ea8c635ac5920
+Node ID              = 16Uiu2HAmLs8bzKYMSoBm31wu8BjqZpgaA7f58ib5y69YRhwXJFXa
+
+
+
+[SECRETS INIT]
+Public key (address) = 0x5277F4433A6c70FA4C772F1a5c08d9eCe2458B6d
+Private key          = 0x0cfd0f7cd3aa2e2fda28d5a33a71792abc4bfc170c22bd7a7d68d13b4be49070
+Node ID              = 16Uiu2HAmS6jjWYY7qatqkSeytbLJXFMKTJkC9DSrri8CRJ5Fbvmb

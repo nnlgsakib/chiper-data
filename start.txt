@@ -1,0 +1,8 @@
+./neth  server --chain test.json --libp2p 0.0.0.0:10001 --nat 0.0.0.0 --jsonrpc 0.0.0.0:7545 --seal  --datadir=node1 --grpc-address 0.0.0.0:20001
+
+
+./neth server --chain test.json --libp2p 0.0.0.0:10002 --nat 0.0.0.0 --jsonrpc 0.0.0.0:7546 --seal  --datadir=node2 --grpc-address 0.0.0.0:20002
+
+ ./neth server --chain test.json --libp2p 0.0.0.0:10003 --nat 0.0.0.0 --jsonrpc 0.0.0.0:7547 --seal  --datadir=node3 --grpc-address 0.0.0.0:20003
+
+./neth server --chain test.json --libp2p 0.0.0.0:10004 --nat 0.0.0.0 --jsonrpc 0.0.0.0:7548 --seal  --datadir=node4 --grpc-address 0.0.0.0:20004
