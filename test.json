@@ -1,5 +1,5 @@
 {
-    "name": "CHIPHER-PROTOCOL-TESTNET",
+    "name": "CIPHER-PROTOCOL-TESTNET",
     "params": {
         "forks": {
             "EIP150": {
